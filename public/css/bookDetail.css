@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.upperNavbar{
+    background-color: #FEC107;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.navItem{
+    color: blue;
+}
+
+.pemisah{
+    margin-top: 20px;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+}
+
+#displayImage{
+    height: 400px;
+}
+
+#footer{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
